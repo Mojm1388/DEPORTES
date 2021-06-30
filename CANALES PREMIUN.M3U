@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:1, DIREC TV 2
+http://104.149.150.2:7240/live/cyx-715A94454CDB870833D9B9587CFA.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_LTcGk5udLpgy&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=2bfe8d7fb790b88bd5802eba75145e9e
+#EXTINF:1, FOX SPORTS PREMIUN
+http://104.149.150.2:7240/live/cyx-0FD6D80345A3a34aF3EBECFE33CF.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_zWWcEYflScIm&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=030b0882c35d4bf8d06f5900a3897ffe
+#EXTINF:1, DIREC TV
+http://104.149.150.2:7240/live/cyx-810013A348E6aed0BF0F6F8AB8EB.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_IF3qDLebEP8t&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=cece6d37e7a1f8506b90a148f1ad7324
+#EXTINF:1, DIREC TV +
+http://104.149.150.2:7240/live/cyx-43361C88458481232EAA93D50F11.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_nMVLK20HxMyt&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=c9b118f8f26bf0d8b3996e67cc733baa
+#EXTINF:1, DIREC TV FHD
+http://104.149.150.2:7240/live/cyx-6531C2134EC6a6d426E09E4B77AE.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_CcuIiWcUr3XS&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=a0340757ddf14317ecd082598acdb007
+#EXTINF:1, DIREC TV 2 FHD
+http://104.149.150.2:7240/live/cyx-32097CB24729a0c3427E6017EDE1.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_45ih7HnrG22c&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=4f5ae6cd1569927b588662639aea51b4
+#EXTINF:1, SKY SPORTS 16
+http://104.149.150.2:7240/live/cyx-562B7D4E42518c9eB7CE836FA0EC.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_k76BEvfoTh2z&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=8edc9c678ace0ea2e9b67ea6415fa9a1
+#EXTINF:1, SKY SPORTS 24
+http://104.149.150.2:7240/live/cyx-42CF632D40768d854FF9FA4249C8.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_qQvRjsy4VkW&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=179197c3633be804063e2e66c5ff49b0
+#EXTINF:1, TUDN 
+http://104.149.150.2:7240/live/cyx-14FACA4540369f05FF0D50B06E32.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_NsBovq6Hq3n5&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=d7fc76d8adc139a0846ef5f1eab87e6c
+#EXTINF:1, ESPN +
+http://104.149.150.2:7240/live/cyx-D72120CB483Ea00d7A1B68D4C2F2.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_QuaD7CzHIRkX&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=3478938110be0d092f62d34049de207a
+#EXTINF:1, GOL TV
+http://104.149.150.2:7240/live/cyx-6BD1EDB648CBbd4eC2D2592C1036.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_R2H60FktFiW9&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=0bcfb03aacd0cd78e777c592595b10c8
+#EXTINF:1, MOVISTAR 
+http://104.149.150.2:7240/live/cyx-AD6412F44CA79ffe29A4CA4CA6CD.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_c5NaFx6wVVB6&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=f7d11547d99b9cefadf61035f4c385a4
+#EXTINF:1, DIREC TV HD
+http://104.149.150.2:7240/live/cyx_okgtD7qlnpFLaZEWCWj3UC4egS1ZXWvW.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_mmiliW3JcOPl&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=e3b4101657b6ba86b44ce77090341861
+#EXTINF:1, SKY SPORTS HD
+http://104.149.150.2:7240/live/cyx-B542AA944E3Fb9b674057BA0B33B.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_cL8nK7x9a86&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=d44a83a76860c7b7725dab2b855adbf0
+#EXTINF:1, SKY SPORTS 24 HD
+http://104.149.150.2:7240/live/cyx_kzwMp0ZNxBJudlvuhBJCo826M3iHq8Y5.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_r8Gw0IAH8227&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=555ca0a0b3c9884b1c9dd79baba32792
+#EXTINF:1, SKY SPORTS 16 HD
+http://104.149.150.2:7240/live/cyx_0sH3MEaxsqERbdLmR60bcCF3JgDYjt8Y.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_W4vveohj3ybb&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=60a91df3d6bd9a6baab8881c67467a3c
+#EXTINF:1, T&C SPORTS
+http://104.149.150.2:7240/live/cyx_kIMzy1I5Id030Wj4.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_WdmchTXvtxSw&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=802a02d3ea5be1d997720833d957d206
+#EXTINF:1, LA LIGA
+http://104.149.150.2:7240/live/cyx_qScx3iVMihJm9wH.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_apOQkxbbPGxi&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=2224e593d83d69d0ddb2ceeba89cc3dc
+#EXTINF:1, BEIN SPORTS
+http://104.149.150.2:7240/live/cyx_zyTJ3AgNzM0zTKVNg.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_i4yMyJdoevta&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=9c9ceda2e4dd1a25bf47b1d57e51dd3b
+#EXTINF:1, WIN SPORTS +
+http://104.149.150.2:7240/live/cyx_9imWSnaLz3v84OS.ts?user_id=46023626&dev_id=abe57822b3b735830bce0c11523a1c5c&trans_id=Rk9HP7lHxDpW_3BmGetXqNc3G&dead_time=1625036188&app_id=com.mobile.telelatinomobile&host=104.149.150.2:7240&app_ver=30900&client_ip=181.174.105.71&auth_id=46023626_com.mobile.telelatinomobile&token=1779a45cf1ded2a94e55c8b4eb64d284
